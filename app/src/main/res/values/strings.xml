@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application999</string>
+
+    <string name="find_tyres_button">Find tyres</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+    <string-array name="spinner_tyres">
+        <item>Soft</item>
+        <item>Medium</item>
+        <item>Hard</item>
+
+    </string-array>
+</resources>
